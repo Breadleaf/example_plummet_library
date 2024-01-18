@@ -1,0 +1,4 @@
+# Here is where your library code goes.
+# If you feel the need to place your library code in a subdirectory that is fine.
+# Make sure that your config.json has the correct (relative to the config.json) path to this file.
+# If you need multiple files for the library, please use relative paths to ensure that the library will work correctly.
