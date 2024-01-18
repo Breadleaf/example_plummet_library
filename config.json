@@ -1,6 +1,7 @@
 {
   "example_plummet_library": {
     "version": "1.0.0",
-    "description": "this repository is to demonstrate the layout of a plummet library"
+    "description": "this repository is to demonstrate the layout of a plummet library",
+    "entry": "./example_lib.plmt"
   }
 }
